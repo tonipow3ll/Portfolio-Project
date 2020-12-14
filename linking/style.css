@@ -9,6 +9,13 @@ body{
 nav{
     background-color: #778899;
 }
+nav.item{
+    text-align: right;
+}
+li.name{
+    text-align: center;
+    font-size: large;
+}
 /* div.row div.col-12{
     background-color: pink;
 }

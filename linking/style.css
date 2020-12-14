@@ -1,5 +1,14 @@
 
-
+img{
+    max-width: 300px;
+    max-height: 300px;
+}
+body{
+    background-color: gainsboro;
+}
+nav{
+    background-color: #778899;
+}
 /* div.row div.col-12{
     background-color: pink;
 }

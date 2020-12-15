@@ -6,9 +6,7 @@ img{
 body{
     background-color: gainsboro;
 }
-nav{
-    background-color: #778899;
-}
+
 nav.item{
     text-align: right;
 }

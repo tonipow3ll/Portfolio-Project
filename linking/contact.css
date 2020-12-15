@@ -1,14 +1,21 @@
 
 body{
-    background-color: pink;
-    color: pink;
+    background-color: gainsboro;
+    
 }
 button.submit{
-background: blue;
+background: #343a40;
+color: fff;
 }
-/* button.submit:hover{
-
-} */
+button.submit:hover{
+background:#6c757d;
+}
 p{
     font-size: medium;
+}
+h2{
+    padding: 2%;
+}
+input.messagebox{
+    height: 75%;
 }

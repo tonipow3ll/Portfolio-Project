@@ -1,7 +1,7 @@
 # Portfolio
 ### For this assignment - we were tasked with making our first 'portfolio' webpage. 
 
-[See the deployed project here](https://tonipow3ll.github.io/Horiseon/)
+[See the deployed project here](hhttps://tonipow3ll.github.io/Portfolio-Project/)
 
 
 #### I used placeholder images from https://placeholder.com/ in leui of many images. 
@@ -9,7 +9,7 @@
 ### Lighthouse was used to check the web pages accesibility and performance. 
 
 
-![Screen Shot 2020-12-10 at 18 24 25](https://tonipow3ll.github.io/Portfolio-Project/)
+![Screen Shot 2020-12-10 at 18 24 25]"https://user-images.githubusercontent.com/72999798/102290705-90b87880-3f0f-11eb-8ef6-7d7aac28fcdf.png/)
 
 
 

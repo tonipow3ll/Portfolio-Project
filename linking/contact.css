@@ -1,14 +1,22 @@
 
-body{
-    background-color: gainsboro;
+html body{ 
+    background: url(galaxy.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     
-}
+  }
+  .row{
+      background-color: gainsboro;
+  }
 button.submit{
-background: #343a40;
+/* background: #343a40; */
+background:#6c757d;
 color: fff;
 }
 button.submit:hover{
-background:#6c757d;
+    background: #343a40;
 }
 p{
     font-size: medium;

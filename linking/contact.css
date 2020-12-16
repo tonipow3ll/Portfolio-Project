@@ -10,8 +10,10 @@ html body{
   .row{
       background-color: gainsboro;
   }
+div.container{
+    max-width: 25%;
+}
 button.submit{
-/* background: #343a40; */
 background:#6c757d;
 color: fff;
 }
@@ -31,4 +33,16 @@ h2 , p{
 }
 input.messagebox{
     height: 75%;
+}
+footer {
+    padding-top: 3px; 
+    position: absolute;
+    height: 20px;
+    margin-bottom: 0;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+}
+footer a{
+    color: white;
 }

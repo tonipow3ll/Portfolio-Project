@@ -6,10 +6,7 @@
 
 #### I used placeholder images from https://placeholder.com/ in leui of many images. 
 ### W3 was used to validate my HTML
-### Lighthouse was used to check the web pages accesibility and performance. 
-
-
-![Screen Shot 2020-12-10 at 18 24 25]"https://user-images.githubusercontent.com/72999798/102290705-90b87880-3f0f-11eb-8ef6-7d7aac28fcdf.png/)
+### [Lighthouse](https://user-images.githubusercontent.com/72999798/102553470-e4060480-4090-11eb-9876-97be3866bc48.png) was used to check the web pages accesibility and performance. 
 
 
 

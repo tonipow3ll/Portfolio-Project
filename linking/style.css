@@ -1,12 +1,5 @@
 
-/* *{
-   font-family: 'Open Sans Condensed', sans-serif;
-} */
-img{
-    max-width: 300px;
-    max-height: 300px;
-}
-/* MAKE NOTE OF BELOW */
+
 html body{
     background: url(galaxy.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -14,7 +7,10 @@ html body{
     -o-background-size: cover;
     background-size: cover;
   }
- 
+  img{
+    max-width: 300px;
+    max-height: 300px;
+}
 div.row{
     background-color: gainsboro;
 }
